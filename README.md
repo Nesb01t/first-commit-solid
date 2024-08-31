@@ -6,11 +6,18 @@ SolidStart + shadcn-solid based frontend project.
 
 nodejs requirement >= 18
 
+- dev
+
 ```bash
 pnpm install
 pnpm dev
 ```
 
+- prettier
+
+```bash
+pnpm prettier
+```
 
 ### shadcn-solid
 
