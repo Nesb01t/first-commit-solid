@@ -1,0 +1,24 @@
+{
+  "name": "example-with-unocss",
+  "type": "module",
+  "scripts": {
+    "dev": "vinxi dev",
+    "build": "vinxi build",
+    "start": "vinxi start"
+  },
+  "dependencies": {
+    "@solidjs/router": "^0.14.3",
+    "@solidjs/start": "^1.0.6",
+    "@unocss/reset": "^0.59.4",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "solid-js": "^1.8.22",
+    "tailwind-merge": "^2.5.2",
+    "unocss": "^0.59.4",
+    "unocss-preset-animations": "^1.1.0",
+    "vinxi": "^0.4.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
