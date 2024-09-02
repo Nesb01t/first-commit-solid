@@ -14,7 +14,7 @@ export const DefaultLayout = (props: LayoutProps) => {
         <ColorModeScript></ColorModeScript>
         <ColorModeProvider>
           <Header />
-          <main class="flex-1 p-4 dark:p-24">{props.children}</main>
+          <main class="flex-1">{props.children}</main>
           <Footer />
         </ColorModeProvider>
       </div>

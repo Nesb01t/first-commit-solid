@@ -12,6 +12,14 @@ export const Nav = () => {
     {
       name: 'road',
       path: '/road'
+    },
+    {
+      name: 'start-repo',
+      path: '/start'
+    },
+    {
+      name: 'trending',
+      path: '/trending'
     }
   ];
 
